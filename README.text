@@ -1,0 +1,9 @@
+Steps to run and build the app:
+(1) Checkout imageGallery project
+(2) Open the cli and go to the path 
+    cd /Users/admin/Desktop/image-gallery-app
+(3) Do the npm install on that path (It will download your dependencies)
+(4) Do npm start
+(5) Check the app at http://localhost:3000/?
+(6) To run the test cases - npm test
+

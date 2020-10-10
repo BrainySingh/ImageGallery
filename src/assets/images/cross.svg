@@ -1,0 +1,10 @@
+<svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <line x1="1" y1="11" 
+          x2="11" y2="1" 
+          stroke="red" 
+          stroke-width="2"/>
+    <line x1="1" y1="1" 
+          x2="11" y2="11" 
+          stroke="red" 
+          stroke-width="2"/>
+</svg>
